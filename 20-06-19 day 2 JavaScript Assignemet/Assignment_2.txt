@@ -1,0 +1,5 @@
+Using jsbin editor because jsfiddle having some problem like get frozen and not respond to the event.
+
+Question 1 https://jsbin.com/biquzetoku/1/edit?html,js,output
+
+question 2 https://jsbin.com/fesisoqudu/edit?html,js,output
