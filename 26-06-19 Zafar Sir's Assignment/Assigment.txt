@@ -1,0 +1,3 @@
+question 1 https://jsfiddle.net/1nwf2sj5/	//Sum the number	
+
+question 2 https://jsfiddle.net/sfhdqt0k/3/	//factorial between 5 to 10
